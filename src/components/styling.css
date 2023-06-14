@@ -1,0 +1,128 @@
+.background-image {
+    background-image: url('https://images.pexels.com/photos/4004374/pexels-photo-4004374.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.back-actors-detail {
+    background-image: url('https://images.pexels.com/photos/4004374/pexels-photo-4004374.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+    background-size: cover;
+    background-position: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 9999;
+}
+
+.back-actors-detail>* {
+    position: relative;
+    z-index: 1;
+}
+
+.actor-card {
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(234, 236, 223, 0.7);
+    padding: 20px;
+    margin: 15px;
+    margin-top: 10px;
+    margin-left: 30%;
+    margin-right: 30%;
+    padding-left: 15%;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(240, 233, 233, 0.3);
+}
+
+.actor-card h2 {
+    margin-top: 0;
+}
+
+.actor-card p {
+    margin: 5px 0;
+}
+
+.actor-card button {
+    padding: 5px 10px;
+    background-color: #0a210d;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.actor-card button:hover {
+    background-color: #c9e6dc;
+    color: black;
+}
+
+.actor-detail {
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(234, 236, 223, 0.7);
+    padding: 20px;
+    padding-left: 16%;
+    padding-top: 10%;
+    margin-left: 25%;
+    margin-right: 25%;
+    border-radius: 5px;
+    top: 0;
+    left: 0;
+    height: 100vh;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+}
+
+.actor-detail h2 {
+    margin-top: 0;
+    color: darkblue;
+}
+
+.actor-detail h3 {
+    margin-top: 20px;
+}
+
+.actor-detail ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.actor-detail li {
+    margin: 5px 0;
+}
+
+.actor-detail button {
+    padding: 5px 10px;
+    background-color: #1b2021;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.actor-detail button:hover {
+    background-color: #eadee5;
+    color: #0a210d;
+}
+
+.loading {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    color: #d1d8da;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.error {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-size: 2rem;
+    font-weight: bold;
+    color: red;
+}
