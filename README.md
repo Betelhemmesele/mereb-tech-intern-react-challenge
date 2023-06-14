@@ -1,3 +1,3 @@
 # mereb-tech-intern-react-challenge
-![Screenshot (26)](https://github.com/Betelhemmesele/mereb-tech-intern-react-challenge/assets/88847580/ce1ed84f-ce25-4f63-b375-e25ac1a8148e)
-![Screenshot (27)](https://github.com/Betelhemmesele/mereb-tech-intern-react-challenge/assets/88847580/70a6f168-64e2-4d60-975f-9a4110f00643)
+![Screenshot (28)](https://github.com/Betelhemmesele/mereb-tech-intern-react-challenge/assets/88847580/3444ab35-c21d-4244-9ca2-1d09894c5a3d)
+![Screenshot (29)](https://github.com/Betelhemmesele/mereb-tech-intern-react-challenge/assets/88847580/f2468d79-ceb5-49a4-b904-49f394134542)
